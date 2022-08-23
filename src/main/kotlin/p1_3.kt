@@ -1,0 +1,32 @@
+import java.util.Scanner
+fun main(args: Array<String>) {
+    print("Student Enrollment No: ")
+    var a = readLine()
+    print("Student Name: ")
+    var b = readLine()
+    print("Student Branch: ")
+    var c = readLine()
+    print("Student Class: ")
+    var d = readLine()
+    print("Student Batch: ")
+    var e = readLine()
+    print("Student College Name: ")
+    var f = readLine()
+    print("Student University Name: ")
+    var g = readLine()
+    print("Student Age: ")
+    var h = readLine()
+
+    println("****************")
+    println("Student Details")
+    println("****************")
+    println("Student Enrollment No: $a")
+    println("Student Name: $b")
+    println("Student Branch: $c")
+    println("Student Class: $d")
+    println("Student Class: $e")
+    println("Student Class: $f")
+    println("Student Class: $g")
+    println("Student Class: $h")
+
+}
